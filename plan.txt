@@ -1,0 +1,14 @@
+/threadsAll
+
+
+/thread/x/post/x/comment/x
+
+/threads
+/thread/xx
+
+
+/comments
+/comment/xx
+
+/posts
+/post/xx
